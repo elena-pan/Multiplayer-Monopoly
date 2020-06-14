@@ -1,6 +1,6 @@
 # Multiplayer Monopoly
 
-
+![Game Interface](./Client/Images/Game%20Interface.png)
 
 Multiplayer monopoly game with server and client source code. Built with Winsock for TCP sockets and Qt for the GUI.
 
